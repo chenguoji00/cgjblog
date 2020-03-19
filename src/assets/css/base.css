@@ -1,0 +1,18 @@
+@import "./normalize.css";
+@import url('//at.alicdn.com/t/font_621771_bd0i231nao9wwmi.css');
+.w {
+    width: 1000px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color:#ff1100;
+
+}
+
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var {
+    margin: 0;
+    padding: 0;
+}
